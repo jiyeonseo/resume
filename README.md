@@ -10,6 +10,17 @@ My name is Jiyeon Seo. I'm a developer working in Korea.
 - Javascript with AngularJS, ReactJS, Redux, Flux
 - Vim, Git
 
+## Experiences
+- Kakao corp ( Oct 2014 ~ )
+  - Commerce Service Development
+    - Technologies : Java 1.7 & 1.8, Play 1.4 & 2.5, Scala 2.11, AngularJs, ReactJs, Flux, Redux
+- Daum Communications ( Aug 2013 ~ Oct 2014 )
+  - Media news platform Development
+    - Technologies : Java 1.7, Spring 3.1, Velocity, MyBatis, Backbonejs
+- Uangel ( July 2012 ~ Aug 2013)
+  - iOS Development
+    - Technologies : Objective-C, iOS
+
 ## contacts
 - [Blog](http://jiyeonseo.github.io/)
 - [Twitter](https://twitter.com/seojeee)
