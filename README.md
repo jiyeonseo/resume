@@ -10,7 +10,8 @@ prefer working with colleagues and good at communication.
 ## Skill Set 
 - Java, Scala, Python
 - Spring framework, Play framework
-- Javascript with AngularJS, ReactJS, Redux, Flux
+- Javascript ES6, Typescript 2
+- AngularJS, ReactJS, Redux, Flux
 - Vim, Git
 
 ## Work Experiences
@@ -46,6 +47,7 @@ prefer working with colleagues and good at communication.
 
 ## contacts
 - [Blog](http://jiyeonseo.github.io/)
+- [Gitbook](https://www.gitbook.com/book/jiyeonseo/daily)
 - [Twitter](https://twitter.com/seojeee)
 - [Mail](seojeee@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jiyeon-seo-aa9b3366?trk=hp-identity-photo)
