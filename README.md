@@ -43,7 +43,9 @@ prefer working with colleagues and good at communication.
   - 코드리뷰를 시작하려는 그대에게
     - video : https://youtu.be/AfB1DomXyEA
     - slide : https://www.slideshare.net/JiyeonSeo2/ss-73455188
-
+- [Android App] 엄마랑물감놀이 Color mixing (2012)
+  - https://play.google.com/store/apps/details?id=gee.color.mixing.play
+  
 ## Personality
 - Good Communication 
 - Contribution
