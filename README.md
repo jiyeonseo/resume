@@ -33,12 +33,12 @@ prefer working with colleagues and good at communication.
   - https://iamprogrammer.io/
   - Podbbang : http://www.podbbang.com/ch/9126
   - iTunes : https://itunes.apple.com/kr/podcast/naneun-peulogeulaemeoda!/id1082628193?mt=2
-- [Conference] RT:FM, 나는프로그래머다 컨퍼런스 2016 (2016.11.25)
+- [Speak] RT:FM, 나는프로그래머다 컨퍼런스 2016 (2016.11.25)
   - http://onoffmix.com/event/82486
   - 지적 프로그래밍을 위한 넓고 얕은 습관 
     - video : https://youtu.be/aP9mhLBJMLw
     - slide : https://www.slideshare.net/JiyeonSeo2/ss-75858902
-- [Conference] re:View meetup (2017.3.22)
+- [Speak] re:View meetup (2017.3.22)
   - https://reviewmeetup.wordpress.com/2017/03/11/review-1st-impact-20170322/
   - 코드리뷰를 시작하려는 그대에게
     - video : https://youtu.be/AfB1DomXyEA
