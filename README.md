@@ -5,7 +5,11 @@ My name is Jiyeon Seo. I'm a developer working in Korea.
 
 I work on web development, both back-end and front-end.
 
-prefer working with colleagues and good at communication. 
+Very friendly and have a good communication skills.
+
+Love to learn something new! love to do something Challenging. 
+
+> “The riskiest thing is to take no risks.”
 
 ## Skill Set 
 - Java, Scala, Python
@@ -43,6 +47,11 @@ prefer working with colleagues and good at communication.
   - 코드리뷰를 시작하려는 그대에게
     - video : https://youtu.be/AfB1DomXyEA
     - slide : https://www.slideshare.net/JiyeonSeo2/ss-73455188
+- [Community] GDG Korea Women Organizer (2013) 
+  - Google Developer Groups for Women developer in Korea
+  - https://developers.google.com/groups/chapter/108196114606467432743/
+  - DevFest W Korea 2013
+    - link : https://developers.google.com/events/117521840/
 - [Android App] 엄마랑물감놀이 Color mixing (2012)
   - https://play.google.com/store/apps/details?id=gee.color.mixing.play
   
