@@ -54,7 +54,12 @@ Love to learn something new! love to do something Challenging.
     - link : https://developers.google.com/events/117521840/
 - [Android App] 엄마랑물감놀이 Color mixing (2012)
   - https://play.google.com/store/apps/details?id=gee.color.mixing.play
-  
+
+## Certificates (Mooc)
+- [Scala] [Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/verify/9BHXTN34YD34) - Cousera
+- [Python] [Programming for Everybody
+(Python)](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972505) - Coursera
+
 ## Personality
 - Good Communication 
 - Contribution
