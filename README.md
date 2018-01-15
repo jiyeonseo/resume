@@ -35,7 +35,7 @@ Love to learn something new! love to do something Challenging.
 
 ## Experiences
 - [Podcast] 나는 프로그래머다 I am a programmer ( Aug 2016 ~ Sep 2017 ) 
-  - Programer Culture & Education Podcast 
+  - Programmer Culture & Education Podcast 
   - https://iamprogrammer.io/
   - Podbbang : http://www.podbbang.com/ch/9126
   - iTunes : https://itunes.apple.com/kr/podcast/naneun-peulogeulaemeoda!/id1082628193?mt=2
