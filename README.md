@@ -72,6 +72,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [Twitter](https://twitter.com/seojeee)
 - [Mail](mailto:seojeee@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jiyeon-seo-aa9b3366?trk=hp-identity-photo)
+- [Instagram](https://www.instagram.com/cheeseinthedev/) 
 
 
 
