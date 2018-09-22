@@ -3,13 +3,11 @@
 
 My name is Jiyeon Seo. I'm a developer working in Korea.
 
-I work on web development, both back-end and front-end.
+Web development, both back-end and front-end. love iOS engineering. 
 
 Very friendly and have a good communication skills.
 
-Love to learn something new! love to do something Challenging. 
-
-> “The riskiest thing is to take no risks.”
+Various domain experiences : media platform, news, commerce, and advertisement.
 
 ## Skill Set 
 - Java, Scala, Python, Hack
@@ -20,11 +18,12 @@ Love to learn something new! love to do something Challenging.
 
 ## Work Experiences
 - Facebook ( Dec 2017 ~ )
-  - Solution Engineer
+  - Solutions Engineer
+    - Technologies : Hack, React.js, Redux 
 - Kakao corp ( Oct 2014 ~ Nov 2017 )
   - Commerce Service Development
     - Developed Mobile Shopping Service in KakaoTalk which is the mobile messanger application in Korea. 
-    - Technologies : Java 1.7 & 1.8, Play 1.4 & 2.5, Scala 2.11, AngularJs, ReactJs, Flux, Redux
+    - Technologies : Java 1.7 & 1.8, Play 1.4 & 2.5, Scala 2.11, AngularJs, React.js, Flux, Redux
 - Daum Communications ( Aug 2013 ~ Oct 2014 )
   - Media news platform Development
     - Developed News Platform at [Mediadaum](http://media.daum.net/) 
@@ -62,10 +61,10 @@ Love to learn something new! love to do something Challenging.
 - [Python] [Programming for Everybody
 (Python)](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972505) - Coursera
 
-## Personality
-- Good Communication 
-- Contribution
-- Energetic
+## Open-Source Contributions
+- reactkr/react : [pr #53](https://github.com/reactkr/react/pull/53)
+- nhnent/fe.javascript : [issues #40](https://github.com/nhnent/fe.javascript/issues/40)
+- serverless/examples : [pr #294](https://github.com/serverless/examples/pull/294)
 
 ## contacts
 - [Blog](http://jiyeonseo.github.io/)
