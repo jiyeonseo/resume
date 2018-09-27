@@ -60,9 +60,11 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [Scala] [Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/verify/9BHXTN34YD34) - Cousera
 - [Python] [Programming for Everybody
 (Python)](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972505) - Coursera
+- [Google Cloud Platform] [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/B36GCY22BNFY) - Coursera
 
 ## Open-Source Contributions
 - reactkr/react : [pr #53](https://github.com/reactkr/react/pull/53)
+- dear-github/dear-github : [issue #146](https://github.com/dear-github/dear-github/issues/146) 
 - nhnent/fe.javascript : [issues #40](https://github.com/nhnent/fe.javascript/issues/40)
 - serverless/examples : [pr #294](https://github.com/serverless/examples/pull/294)
 
