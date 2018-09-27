@@ -59,7 +59,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 ## Certificates (Mooc)
 - [Scala] [Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/verify/9BHXTN34YD34) - Cousera
 - [Python] [Programming for Everybody
-(Python)](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972505) - Coursera
+(Python)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972505~2893312/pdf) - Coursera
 - [Google Cloud Platform] [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/B36GCY22BNFY) - Coursera
 
 ## Open-Source Contributions
