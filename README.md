@@ -61,6 +61,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [Python] [Programming for Everybody
 (Python)](https://github.com/jiyeonseo/resume/blob/master/Programming%20for%20Everybody.pdf) - Coursera
 - [Google Cloud Platform] [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/B36GCY22BNFY) - Coursera
+- [Google Cloud Platform] [Getting Started With Application Development](https://www.coursera.org/account/accomplishments/verify/VXJRVVXJDUA2) - Coursera 
 
 ## Open-Source Contributions
 - reactkr/react : [pr #53](https://github.com/reactkr/react/pull/53)
