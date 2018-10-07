@@ -64,6 +64,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [Google Cloud Platform] [Getting Started With Application Development](https://www.coursera.org/account/accomplishments/verify/VXJRVVXJDUA2) - Coursera 
 - [Google Cloud Platform] [Securing and Integrating Components of your Application](https://www.coursera.org/account/accomplishments/verify/ZETFWRWGY6B5) - Coursera
 - [Google Cloud Platform] [App Deployment, Debugging, and Performance](https://www.coursera.org/account/accomplishments/verify/K4S34L3YRWPW) - Coursera
+- [Google Cloud Platform] [Developing Applications with Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/YK5J26APBDRW) - Coursera
 
 ## Open-Source Contributions
 - reactkr/react : [pr #53](https://github.com/reactkr/react/pull/53)
