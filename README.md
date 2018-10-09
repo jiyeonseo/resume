@@ -71,6 +71,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - dear-github/dear-github : [issue #146](https://github.com/dear-github/dear-github/issues/146) 
 - nhnent/fe.javascript : [issues #40](https://github.com/nhnent/fe.javascript/issues/40)
 - serverless/examples : [pr #294](https://github.com/serverless/examples/pull/294)
+- serverless/serverless: [pr #5359](https://github.com/serverless/serverless/pull/5359)
 
 ## contacts
 - [Blog](http://jiyeonseo.github.io/)
