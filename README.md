@@ -72,6 +72,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - nhnent/fe.javascript : [issues #40](https://github.com/nhnent/fe.javascript/issues/40)
 - serverless/examples : [pr #294](https://github.com/serverless/examples/pull/294) [pr #304](https://github.com/serverless/examples/pull/304)
 - serverless/serverless: [pr #5359](https://github.com/serverless/serverless/pull/5359)
+- Azure/azure-sdk-for-node: [pr #3792](https://github.com/Azure/azure-sdk-for-node/pull/3792)
 
 ## contacts
 - [Blog](http://jiyeonseo.github.io/)
