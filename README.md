@@ -74,6 +74,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - serverless/serverless: [pr #5359](https://github.com/serverless/serverless/pull/5359)
 - Azure/azure-sdk-for-node: [pr #3792](https://github.com/Azure/azure-sdk-for-node/pull/3792)
 - Azure/azure-sdk-for-js: [pr #84](https://github.com/Azure/azure-sdk-for-js/pull/84)
+- anaibol/awesome-serverless: [pr #154](https://github.com/anaibol/awesome-serverless/pull/154)
 
 
 ## contacts
