@@ -1,11 +1,15 @@
 # Seo Jiyeon
 안녕하세요! Hi! 你好! こんにちは! bonjour!
 
-My name is Jiyeon Seo. I'm a developer working in Korea.
+Tech explorer and dreamer to find exciting things which can change the world better and happier! 
 
-Web development, both back-end and front-end. love iOS engineering. 
+Very sociable and enjoying meeting people. believe the team work is the key of success of the project. 
 
-Very friendly and have a good communication skills.
+Attending to Developer conference constantly to keep networking with engineers outside of the office. It gives me a good inspiration. Participating Developer Group, GDG Women Korea, as an organizer in 2013 and participating with big and small conferences as a managing staff.
+
+Inquisitive and passionate. Studying with MOOC, like Coursera and Edx, to keep following trend of technologies. I have an experience of hosting Podcast, "I am a programmer", recorded in Korean. It is about Korean Developer culture and education. 
+
+Currently, interested with Serverless. love to talk about Serverless and Azure. 
 
 Various domain experiences : media platform, news, commerce, and advertisement.
 
