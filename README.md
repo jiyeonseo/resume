@@ -7,9 +7,9 @@ Very sociable and enjoying meeting people. believe the team work is the key of s
 
 Attending to Developer conference constantly to keep networking with engineers outside of the office. It gives me a good inspiration. Participating Developer Group, GDG Women Korea, as an organizer in 2013 and participating with big and small conferences as a managing staff.
 
-Inquisitive and passionate. Studying with MOOC, like Coursera and Edx, to keep following trend of technologies. I have an experience of hosting Podcast, "I am a programmer", recorded in Korean. It is about Korean Developer culture and education. 
+Inquisitive and passionate. Studying with MOOC, like Coursera and Edx, to keep following trend of technologies. I have an experience of hosting Podcast, "I am a programmer", recorded in Korean about engineering culture and education in Korea. 
 
-Currently, interested with Serverless. love to talk about Serverless and Azure. 
+Currently, interested in Serverless. love to talk about Serverless and Azure.
 
 Various domain experiences : media platform, news, commerce, and advertisement.
 
