@@ -81,7 +81,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - anaibol/awesome-serverless: [pr #154](https://github.com/anaibol/awesome-serverless/pull/154)
 - iamkun/dayjs: [pr #431](https://github.com/iamkun/dayjs/pull/431)
 
-## contacts
+## Contacts
 - [Blog](http://jiyeonseo.github.io/)
 - [Gitbook](https://www.gitbook.com/book/jiyeonseo/daily)
 - [Twitter](https://twitter.com/seojeee)
@@ -89,5 +89,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [LinkedIn](https://www.linkedin.com/in/jiyeon-seo-aa9b3366?trk=hp-identity-photo)
 - [Instagram](https://www.instagram.com/cheeseinthedev/) 
 
-
+## Fun Fact - Modelling 
+- Company Job Blog : 
+- Company Product Promotion Campaign : https://www.facebook.com/marketingkorea/videos/419619822184957/UzpfSTEwMDAwMDc1MDMxOTgyOToyNDY0NjEwNjUzNTczOTIx/ 
 
