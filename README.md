@@ -89,7 +89,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [LinkedIn](https://www.linkedin.com/in/jiyeon-seo-aa9b3366?trk=hp-identity-photo)
 - [Instagram](https://www.instagram.com/cheeseinthedev/) 
 
-## Fun Fact - Modelling 
+## Fun Fact - Modeling ;) 
 - Company Job Blog : https://www.facebook.com/notes/facebook-careers/solutions-engineering-at-facebook/1681762035193326/
 - Company Product Promotion Campaign : https://www.facebook.com/marketingkorea/videos/419619822184957/UzpfSTEwMDAwMDc1MDMxOTgyOToyNDY0NjEwNjUzNTczOTIx/ 
 
