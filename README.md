@@ -90,6 +90,6 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [Instagram](https://www.instagram.com/cheeseinthedev/) 
 
 ## Fun Fact - Modelling 
-- Company Job Blog : 
+- Company Job Blog : https://www.facebook.com/notes/facebook-careers/solutions-engineering-at-facebook/1681762035193326/
 - Company Product Promotion Campaign : https://www.facebook.com/marketingkorea/videos/419619822184957/UzpfSTEwMDAwMDc1MDMxOTgyOToyNDY0NjEwNjUzNTczOTIx/ 
 
