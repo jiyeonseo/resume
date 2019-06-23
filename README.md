@@ -71,6 +71,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [Google Cloud Platform] [Developing Applications with Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/YK5J26APBDRW) - Coursera
 
 ## Open-Source Contributions
+- vim/vim : [pr #4503](https://github.com/vim/vim/pull/4503)
 - reactkr/react : [pr #53](https://github.com/reactkr/react/pull/53)
 - dear-github/dear-github : [issue #146](https://github.com/dear-github/dear-github/issues/146) 
 - nhnent/fe.javascript : [issues #40](https://github.com/nhnent/fe.javascript/issues/40)
