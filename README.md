@@ -37,6 +37,8 @@ Various domain experiences : media platform, news, commerce, and advertisement.
     - Technologies : Objective-C, iOS
 
 ## Experiences
+- [AR Effect] Game with AR effect on FB Camera 
+  - https://www.facebook.com/fbcameraeffects/tryit/728315064296179/
 - [Podcast] 나는 프로그래머다 I am a programmer ( Aug 2016 ~ Sep 2017 ) 
   - Programmer Culture & Education Podcast 
   - https://iamprogrammer.io/
@@ -89,7 +91,6 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [Twitter](https://twitter.com/seojeee)
 - [Mail](mailto:seojeee@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jiyeon-seo-aa9b3366?trk=hp-identity-photo)
-- [Instagram](https://www.instagram.com/cheeseinthedev/) 
 
 ## Fun Fact - Modeling ;) 
 - Company Job Blog : https://www.facebook.com/notes/facebook-careers/solutions-engineering-at-facebook/1681762035193326/
