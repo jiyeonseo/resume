@@ -23,7 +23,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 ## Work Experiences
 - Facebook ( Dec 2017 ~ )
   - Solutions Engineer
-    - Technologies : Hack, React.js, Redux 
+    - Technologies : Hack(PHP), React.js, Redux 
 - Kakao corp ( Oct 2014 ~ Nov 2017 )
   - Commerce Service Development
     - Developed Mobile Shopping Service in KakaoTalk which is the mobile messanger application in Korea. 
@@ -74,8 +74,6 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - [Google Cloud Platform] [Developing Applications with Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/YK5J26APBDRW) - Coursera
 
 ## Open-Source Contributions
-- vim/vim : [pr #4503](https://github.com/vim/vim/pull/4503)
-- reactkr/react : [pr #53](https://github.com/reactkr/react/pull/53)
 - dear-github/dear-github : [issue #146](https://github.com/dear-github/dear-github/issues/146) 
 - nhnent/fe.javascript : [issues #40](https://github.com/nhnent/fe.javascript/issues/40)
 - serverless/examples : [pr #294](https://github.com/serverless/examples/pull/294) [pr #304](https://github.com/serverless/examples/pull/304)
@@ -84,6 +82,13 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - Azure/azure-sdk-for-js: [pr #84](https://github.com/Azure/azure-sdk-for-js/pull/84)
 - anaibol/awesome-serverless: [pr #154](https://github.com/anaibol/awesome-serverless/pull/154)
 - iamkun/dayjs: [pr #431](https://github.com/iamkun/dayjs/pull/431)
+
+## Translation works (en-kr)
+- react-hook-form/react-hook-form-website : [issue #42](https://github.com/react-hook-form/react-hook-form-website/issues/42) [pr #61](https://github.com/react-hook-form/react-hook-form-website/pull/61)
+- react-hook-form/react-hook-form : [pr #403](https://github.com/react-hook-form/react-hook-form/pull/403)
+- vim/vim : [pr #4503](https://github.com/vim/vim/pull/4503)
+- reactkr/react : [pr #53](https://github.com/reactkr/react/pull/53)
+- [Building A Simple React Application Using The Flux Pattern](http://jiyeonseo.github.io/2015/08/30/Building-A-Simple-React-Application-Using-The-Flux-Pattern/) 
 
 ## Contacts
 - [Blog](http://jiyeonseo.github.io/)
