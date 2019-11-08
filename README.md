@@ -86,6 +86,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 ## Translation works (en-kr)
 - react-hook-form/react-hook-form-website : [issue #42](https://github.com/react-hook-form/react-hook-form-website/issues/42) [pr #61](https://github.com/react-hook-form/react-hook-form-website/pull/61)
 - react-hook-form/react-hook-form : [pr #403](https://github.com/react-hook-form/react-hook-form/pull/403)
+- JaeYeopHan/Interview_Question_for_Beginner : [pr #104](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/pull/104/) 
 - vim/vim : [pr #4503](https://github.com/vim/vim/pull/4503)
 - reactkr/react : [pr #53](https://github.com/reactkr/react/pull/53)
 - [Building A Simple React Application Using The Flux Pattern](http://jiyeonseo.github.io/2015/08/30/Building-A-Simple-React-Application-Using-The-Flux-Pattern/) 
