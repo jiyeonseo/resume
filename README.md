@@ -21,7 +21,10 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - Vim, Git
 
 ## Work Experiences
-- Facebook ( Dec 2017 ~ )
+- Naver (Dec 2019 ~ )
+  - Software Engineer 
+    - Making visible productions using AI 
+- Facebook ( Dec 2017 ~ Dec 2019)
   - Solutions Engineer
     - Technologies : Hack(PHP), React.js, Redux 
 - Kakao corp ( Oct 2014 ~ Nov 2017 )
