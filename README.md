@@ -22,21 +22,21 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 
 ## Work Experiences
 - Naver (Dec 2019 ~ )
-  - Software Engineer 
+  - Software Engineer @ AI Platform
     - Making visible productions using AI 
 - Facebook ( Dec 2017 ~ Dec 2019)
-  - Solutions Engineer
+  - Solutions Engineer  
     - Technologies : Hack(PHP), React.js, Redux 
 - Kakao corp ( Oct 2014 ~ Nov 2017 )
-  - Commerce Service Development
+  - Software Engineer @ Commerce Service Development
     - Developed Mobile Shopping Service in KakaoTalk which is the mobile messanger application in Korea. 
     - Technologies : Java 1.7 & 1.8, Play 1.4 & 2.5, Scala 2.11, AngularJs, React.js, Flux, Redux
 - Daum Communications ( Aug 2013 ~ Oct 2014 )
-  - Media news platform Development
+  - Software Engineer @ Media news platform Development
     - Developed News Platform at [Mediadaum](http://media.daum.net/) 
     - Technologies : Java 1.7, Spring 3.1, Velocity, MyBatis, BackboneJs
 - Uangel ( July 2012 ~ Aug 2013)
-  - iOS Development
+  - iOS Developer
     - Technologies : Objective-C, iOS
 
 ## Experiences
