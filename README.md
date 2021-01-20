@@ -40,6 +40,12 @@ Various domain experiences : media platform, news, commerce, and advertisement.
     - Technologies : Objective-C, iOS
 
 ## Experiences
+- [Speak] Women Who Code Seoul (2020.12.12)
+  - https://event-us.kr/01zlz6jvqxsc/event/26896
+  - 코로나 시대에 개발자가 운동하는 방법
+    - video : https://www.youtube.com/embed/8W0j0tgEGMk?start=3199
+    - slide : (kor) https://www.slideshare.net/JiyeonSeo2/ss-240577148 
+    - slide : (eng) https://www.slideshare.net/JiyeonSeo2/how-programmer-exercise-in-the-time-of-covid19
 - [AR Effect] Game with AR effect on FB Camera 
   - https://www.facebook.com/fbcameraeffects/tryit/728315064296179/
 - [Podcast] 나는 프로그래머다 I am a programmer ( Aug 2016 ~ Sep 2017 ) 
