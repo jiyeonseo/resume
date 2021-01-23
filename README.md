@@ -46,6 +46,14 @@ Various domain experiences : media platform, news, commerce, and advertisement.
     - video : https://www.youtube.com/embed/8W0j0tgEGMk?start=3199
     - slide : (kor) https://www.slideshare.net/JiyeonSeo2/ss-240577148 
     - slide : (eng) https://www.slideshare.net/JiyeonSeo2/how-programmer-exercise-in-the-time-of-covid19
+- [Speak] Hacktoberfest Seoul 2020 (2020.10.24)
+  - https://event-us.kr/hacktoberfestkorea/event/23432
+  - 나의 핵토버페스트를 위하여 For my hacktoberfest 
+    - video : https://www.youtube.com/watch?v=pyr8m8xWnl0
+    - slide : https://github.com/devrel-kr/hacktoberfest-seoul/blob/main/events/2020/slides/slide-jiyeon-seo.pdf
+- [Speak] 애저 펑션으로 스마트 홈 IoT 구축하기 1부/2부 Building smart home IoT with Azure functions
+  - video 1 : https://www.youtube.com/watch?v=q8TuRTw0OsQ
+  - video 2 : https://www.youtube.com/watch?v=2iaSu9kOQGE
 - [AR Effect] Game with AR effect on FB Camera 
   - https://www.facebook.com/fbcameraeffects/tryit/728315064296179/
 - [Podcast] 나는 프로그래머다 I am a programmer ( Aug 2016 ~ Sep 2017 ) 
