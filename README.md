@@ -40,6 +40,20 @@ Various domain experiences : media platform, news, commerce, and advertisement.
     - Technologies : Objective-C, iOS
 
 ## Experiences
+- [Speak] Global Azure 2021 Korea (2021.04)
+  - https://github.com/krazure/ga2021kr
+  - 개발자가 애저로 운동하며 살아남는 법 
+    - video : https://www.youtube.com/watch?v=t6lvCd-H8FY
+- [Speak] 서버리스한국사용자모임 3월 밋업 (2021.03)
+  - 개발자가 서버리스로 운동하는 방법
+    - video : https://www.youtube.com/watch?v=pIo2nFn-HO0    
+- [Speak] global diversity CFP day (2021.02)
+  - https://www.globaldiversitycfpday.com/continents/asia 
+  - Quick start! for tech talk beginners
+    - slide : https://www.slideshare.net/JiyeonSeo2/quick-start-for-tech-talk-beginners
+- [Speak] DevGround 2021 - 개발자, 나의 성장을 도왔던 것들 (2021.01)
+  - https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5%EB%8F%84%EC%9B%80#
+  - https://devground.hanbit.co.kr/2021/01/13/devg20211-seo/
 - [Speak] Women Who Code Seoul (2020.12.12)
   - https://event-us.kr/01zlz6jvqxsc/event/26896
   - 코로나 시대에 개발자가 운동하는 방법
