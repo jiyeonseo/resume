@@ -24,6 +24,7 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - Naver (Dec 2019 ~ )
   - Software Engineer @ AI Platform
     - Making visible productions using AI 
+    - Technologies : Python, Flask, Sanic, Vue 
 - Facebook ( Dec 2017 ~ Dec 2019)
   - Solutions Engineer  
     - Technologies : Hack(PHP), React.js, Redux 
@@ -40,6 +41,9 @@ Various domain experiences : media platform, news, commerce, and advertisement.
     - Technologies : Objective-C, iOS
 
 ## Experiences
+- [Speak] Yagom TechCast (2021.07)
+  - https://yagom.net/courses/techcast-5/
+  - 그땐 몰랐죠 컨퍼런스가 이렇게 재밌는 줄   
 - [Speak] Global Azure 2021 Korea (2021.04)
   - https://github.com/krazure/ga2021kr
   - 개발자가 애저로 운동하며 살아남는 법 
