@@ -41,6 +41,12 @@ Various domain experiences : media platform, news, commerce, and advertisement.
     - Technologies : Objective-C, iOS
 
 ## Experiences
+- [Speak] DEVIEW 2021
+  - https://deview.kr/2021/sessions/522 
+  - 마스크 쓰고도 나를 찾는 얼굴 인식! FaceSign 네이버 신사옥 입성기
+- [Speak] 탈잉 - 월간 코드리뷰 ver_0.1
+  - https://taling.me/vod/view/39222
+  - 개발자의 슬기로운 발표 생활
 - [Speak] Yagom TechCast (2021.07)
   - https://yagom.net/courses/techcast-5/
   - 그땐 몰랐죠 컨퍼런스가 이렇게 재밌는 줄   
