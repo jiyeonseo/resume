@@ -22,9 +22,10 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 
 ## Work Experiences
 - Naver (Dec 2019 ~ )
-  - Software Engineer @ AI Platform
+  - Software Engineer / Tech Lead @ AI Production
     - Making visible productions using AI 
-    - Technologies : Python, Flask, Sanic, Vue 
+      - FaceSign Backend
+    - Technologies : Python, Flask, Sanic, Vue, Docker, K8S 
 - Facebook ( Dec 2017 ~ Dec 2019)
   - Solutions Engineer  
     - Technologies : Hack(PHP), React.js, Redux 
