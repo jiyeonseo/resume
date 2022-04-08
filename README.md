@@ -42,6 +42,8 @@ Various domain experiences : media platform, news, commerce, and advertisement.
     - Technologies : Objective-C, iOS
 
 ## Experiences
+- [Article] 동아비지니스리뷰 - 지속가능한 기술력 핵심은 '코드 리뷰' 개발자가 떠나도 제품 연속성 유지 가능
+  - https://dbr.donga.com/article/view/1203/article_no/10411/ac/search  
 - [Speak] DEVIEW 2021
   - https://deview.kr/2021/sessions/522 
   - 마스크 쓰고도 나를 찾는 얼굴 인식! FaceSign 네이버 신사옥 입성기
