@@ -21,7 +21,9 @@ Various domain experiences : media platform, news, commerce, and advertisement.
 - Vim, Git
 
 ## Work Experiences
-- Naver (Dec 2019 ~ )
+- NFTBank (Aug 2022 ~  )
+  - Software Engineer
+- Naver (Dec 2019 ~ Aug 2022 )
   - Software Engineer / Tech Lead @ AI Production
     - Making visible productions using AI 
       - FaceSign Backend
@@ -42,6 +44,9 @@ Various domain experiences : media platform, news, commerce, and advertisement.
     - Technologies : Objective-C, iOS
 
 ## Experiences
+- [Speak] Infcon 2022
+  - 코드 리뷰의 또 다른 접근 방법: Pull Requests vs. Stacked Changes
+  - https://infcon.day/speaker/%ec%84%9c%ec%a7%80%ec%97%b0-%ec%bd%94%eb%93%9c%eb%a6%ac%eb%b7%b0-%ea%b9%83%ed%97%99/
 - [Article] 동아비지니스리뷰 - 지속가능한 기술력 핵심은 '코드 리뷰' 개발자가 떠나도 제품 연속성 유지 가능
   - https://dbr.donga.com/article/view/1203/article_no/10411/ac/search  
 - [Speak] DEVIEW 2021
