@@ -33,6 +33,9 @@
     - Technologies : Objective-C, iOS
 
 ## Experiences
+- [Speak] 한빛 MSA 시리즈
+  - 코딩 친구 넘어 코딩 선생님으로, GitHub Copilot
+  - https://www.hanbitn.com/product/msa2003-copilot/
 - [Speak] Infcon 2022
   - 코드 리뷰의 또 다른 접근 방법: Pull Requests vs. Stacked Changes
   - https://infcon.day/speaker/%ec%84%9c%ec%a7%80%ec%97%b0-%ec%bd%94%eb%93%9c%eb%a6%ac%eb%b7%b0-%ea%b9%83%ed%97%99/
